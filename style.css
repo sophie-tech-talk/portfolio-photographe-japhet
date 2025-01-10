@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+* {
+    font-family: "Plus Jakarta Sans", serif;
+}
+body, ul, li, a {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    background-color: #000000;
+}
+
+/* Header Container */
+.main-header {
+    padding: 15px 0;
+}
+
+.main-header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Logo */
+.logo img {
+    height: 100px;
+}
+
+/* Menu */
+.menu ul {
+    display: flex;
+    gap: 20px;
+}
+
+.menu ul li a {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 200;
+    text-transform: uppercase;
+    transition: color 0.3s;
+}
+
+.menu ul li a:hover {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* CTA Button */
+.cta .btn-cta {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.cta .btn-cta:hover {
+    background-color: #0056b3;
+}
+
+.galerie {
+    display:grid;
+    grid-template-columns:300px 300px 300px 300px;
+    align-items: center;
+    justify-content: center;
+}
+
+.galerie img {
+    display: block;
+    max-width: 100%;
+    width:200px;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
