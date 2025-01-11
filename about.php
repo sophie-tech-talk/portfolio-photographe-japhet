@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="fr">
+<?php include 'header.php'; ?>
+<main>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Photographie - Maks</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-    <?php include 'header.php'; ?>
-    <script src="script.js"></script>
-</body>
-
-</html>
+</main>
+<?php include 'footer.php'; ?>
