@@ -1,5 +1,9 @@
 <?php include 'header.php'; ?>
 <main>
+    <div class="banner">
+        <p>MAKS STUDIO PHOTO</p>
+        <h1>photographe<br>vidéaste</h1>
+    </div>
     <div class="galerie">
         <img src="img/aleksandr-popov-2GNBoMgKYEo-unsplash.jpg" loading="lazy" />
         <img src="img/evgeniya-pron-YEcwDXs61aU-unsplash.jpg" loading="lazy" />

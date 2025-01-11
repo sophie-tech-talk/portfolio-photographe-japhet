@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<head class="main-header">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Photographie - Maks</title>
-    <link rel="icon" type="image/x-icon" href="img/1.png">
+    <title>Portfolio Photographie - MAKS</title>
+    <link rel="icon" type="image/x-icon" href="img/logo-maks/1.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -15,7 +15,7 @@
         <div class="container">
             <div class="logo">
                 <a href="index.php">
-                    <img src="img/2.png">
+                    <img src="img/logo-maks/2.png">
                 </a>
             </div>
             <nav class="menu">
