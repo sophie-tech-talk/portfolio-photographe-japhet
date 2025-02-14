@@ -46,4 +46,5 @@ Ce projet est un portfolio en ligne pour le photographe Japhet (MAKS Studio), co
 ## Prochaines étapes
 
 - **Optimisation des images** : Réduire la taille des fichiers pour améliorer les temps de chargement.
+- **Responsive** : Adapter le site aux mobiles et tablettes.
 - **Mise en ligne** : Mettre en production le site Web pour qu'il soit accessible en ligne.
