@@ -3,6 +3,8 @@
 ## Description
 
 Ce projet est un portfolio en ligne pour le photographe Japhet (MAKS Studio), conçu pour présenter ses œuvres. Le site est développé en PHP pour une structure dynamique, avec du CSS pour le style et du JavaScript pour les interactions utilisateur.
+
+
 ![image](https://github.com/user-attachments/assets/8c439ca7-5061-4075-8f3e-c03b36a50be8)
 
 ## Technologies utilisées
